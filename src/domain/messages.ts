@@ -119,7 +119,7 @@ export const APP_TEXT = {
 } as const;
 
 /** The public source code, linked from the Guide (M4-D10). */
-export const SOURCE_URL = 'https://github.com/ciphertk/r2size';
+export const SOURCE_URL = 'https://github.com/tanayk-dev/r2size';
 
 export const INFO_TEXT = {
   entry: 'The price you plan to buy at, usually your limit price.',

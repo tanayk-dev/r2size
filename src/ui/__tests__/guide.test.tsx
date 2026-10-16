@@ -52,7 +52,7 @@ describe('GuidePage', () => {
       '₹5.00',
     );
     expect(screen.getByText(/Nothing you type leaves this device/)).toBeInTheDocument();
-    expect(screen.getByRole('link', { name: 'github.com/ciphertk/r2size' })).toHaveAttribute(
+    expect(screen.getByRole('link', { name: 'github.com/tanayk-dev/r2size' })).toHaveAttribute(
       'rel',
       'noopener noreferrer',
     );
